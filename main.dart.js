@@ -47829,7 +47829,7 @@ r.cx=7}else if(s===5){r.cx=6
 r.db=2}r.bB()},
 T5(){this.aB(new A.WY(this))},
 K(a3,a4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0=this,a1=null,a2=t.w
-a2=Math.min(a4.Y(a2).f.a.a/a0.a.c,(a4.Y(a2).f.a.b-350)/a0.cx)
+a2=Math.min((a4.Y(a2).f.a.a-100)/a0.a.c,(a4.Y(a2).f.a.b-350)/a0.cx)
 a0.fx=a0.fr=a2
 s=a2*0.75
 a2=A.a16(!0,a1,!0,a1,a1,!1)
